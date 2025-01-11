@@ -21,6 +21,7 @@
     "axios": "^1.7.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "express": "^4.21.2",
     "init": "^0.1.2",
     "lucide-react": "^0.394.0",
     "next-themes": "^0.3.0",
@@ -48,5 +49,9 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4",
     "vite": "^5.2.0"
-  }
+  },
+  "description": "The **AI Resume Builder App** is a web application designed to help users create professional resumes effortlessly. Leveraging AI for personalized summaries, the app allows users to generate resumes with features like real-time previews, dynamic styling, and social media sharing.",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
